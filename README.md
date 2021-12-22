@@ -1,2 +1,8 @@
-# Arkanoid
-my final project for the first semester
+# Игра Arkanoid
+
+### _Системные требования_
+- Windows 10 x64
+### _Для разработки_
+- Необходим Cmake 3.15, компилятор VS 2019
+### _Для установки_
+- Использовать InnoSetup (см. директорию installer)
