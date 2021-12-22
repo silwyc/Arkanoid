@@ -1,3 +1,7 @@
+cmakelists.txt.bak
+.gitignore.bak
+App.rc.bak
+
 # Prerequisites
 *.d
 
